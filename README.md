@@ -6,4 +6,4 @@
 
 ## Bilder
 
-[![Error](https://raw.githubusercontent.com/niclasGawor/mattis.github.io/master/boatOnWater1resulutionsmall.jpg)](https://raw.githubusercontent.com/niclasGawor/mattis.github.io/master/boatOnWater1resulution.jpg)
+[![Error](https://raw.githubusercontent.com/niclasGawor/mattis.github.io/master/boatOnWater1resulutionsmall.png)](https://raw.githubusercontent.com/niclasGawor/mattis.github.io/master/boatOnWater1resulutionsmall.png)
