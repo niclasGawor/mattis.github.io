@@ -2,11 +2,7 @@
 
 ## Contact
 
-'''markdown
-
-coming soon
-
-'''
+//coming soon
 
 ## Bilder
 ![BilderGallery](BilderGallery.md)
